@@ -10,7 +10,7 @@
 // Defined as constants so that they can't be changed
 DEFINE ('DB_USER', 'ceelabadmin');
 DEFINE ('DB_PASSWORD', 'databaseoverlord');
-DEFINE ('DB_NAME', 'invetory');
+DEFINE ('DB_NAME', 'inventory');
 
 // $dbc will contain a resource link to the database
 // @ keeps the error from showing in the browser
