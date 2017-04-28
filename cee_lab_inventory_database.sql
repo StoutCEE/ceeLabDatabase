@@ -1,4 +1,3 @@
--- does it work to comment things out like that? 
 /*CREATE DATABASE if not exists inventory;
 
 -- this allows you to select tables by just their names, rather than things like
